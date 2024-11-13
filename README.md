@@ -1,5 +1,3 @@
-¡Tienes razón! Hay algunos detalles adicionales que no mencioné en la explicación anterior. Ahora voy a desglosar más a fondo qué **recibe** y **devuelve** cada función, con todos los parámetros y valores involucrados, incluidos los que se usan para la interacción del usuario y la manipulación de archivos. A continuación se detalla mejor la función de cada parámetro y lo que la función realmente devuelve o maneja.
-
 ### 1. **`main`**
 
 - **Recibe:**  
@@ -141,5 +139,3 @@
 | `eliminarEstudiante`      | Ninguno (pero usa un ID proporcionado por el usuario)        | Ninguno                                | Elimina a un estudiante del archivo `estudiantes.txt`.                          |
 
 ---
-
-Si te surgen más dudas sobre algún aspecto específico de las funciones, ¡no dudes en preguntar!
